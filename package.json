@@ -1,7 +1,10 @@
 {
     "name": "montage",
-    "version": "0.12.2",
     "description": "A UI Framework",
+    "version": "0.13.0-1",
+    "publishConfig": {
+        "tag": "bleeding-edge"
+    },
     "main": "montage",
     "bin": {
         "montage": "bin/montage"
